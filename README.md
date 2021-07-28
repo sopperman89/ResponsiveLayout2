@@ -1,2 +1,2 @@
-# ResponsiveLayout2
+# Responsive_Layout
 Created with CodeSandbox
